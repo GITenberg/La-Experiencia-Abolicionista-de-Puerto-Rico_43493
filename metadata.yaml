@@ -1,0 +1,26 @@
+_repo: La-Experiencia-Abolicionista-de-Puerto-Rico_43493
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43493-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sociedad Abolicionista Española
+    alias: Sociedad Abolicionista Espanola
+    gutenberg_agent_id: '42254'
+    url: http://www.gutenberg.org/2009/agents/42254
+description: ''
+gutenberg_issued: '2013-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43493'
+  lccn: 03011891
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HT'
+- !lcsh 'Antislavery movements -- Puerto Rico'
+title: La Experiencia Abolicionista de Puerto Rico
+url: http://www.gutenberg.org/ebooks/43493
