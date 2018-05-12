@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '42254'
     url: http://www.gutenberg.org/2009/agents/42254
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43493#La-Experiencia-Abolicionista-de-Puerto-Rico
 gutenberg_issued: '2013-08-17'
 gutenberg_type: Text
 identifiers:
